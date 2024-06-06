@@ -1,0 +1,22 @@
+To run the provided Python code, you'll need the following software:
+
+Python: Ensure that Python is installed on your machine. You can download Python from the official website: https://www.python.org/. Follow the installation instructions provided for your operating system.
+Tkinter (Python library): Tkinter is a standard Python library for creating GUI applications. It usually comes pre-installed with Python, so you may not need to install it separately. However, if you encounter any issues, you can install Tkinter using the package manager for your operating system or by running pip install tk.
+Once you have Python and Tkinter installed, follow these steps to run the code on your machine:
+
+Open a Text Editor: Open a text editor such as Notepad (on Windows), TextEdit (on macOS), or any code editor of your choice.
+Copy the Code: Copy the provided Python code from above and paste it into the text editor.
+Save the File: Save the file with a .py extension, for example, data_manager_gui.py. Ensure that you remember the location where you save the file.
+Open Command Prompt / Terminal: Open Command Prompt (on Windows) or Terminal (on macOS/Linux).
+Navigate to the Directory: Use the cd command to navigate to the directory where you saved the Python file. For example:cd path/to/directory
+Run the Script: Once you are in the correct directory, run the Python script by executing the following command:python data_manager_gui.py
+This command will execute the Python script, and the GUI application will launch.
+Interact with the GUI: Once the GUI application is running, you can interact with it by clicking on the buttons to perform various operations like selecting/creating a data file, displaying numbers, appending numbers, etc.
+Exit the Program: To exit the program, you can either close the GUI window or click the "Exit" button provided in the interface.
+Following these steps will allow you to run the provided Python program on your machine and interact with the GUI interface for managing data files.
+
+
+
+
+
+
